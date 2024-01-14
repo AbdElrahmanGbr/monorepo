@@ -6,5 +6,8 @@ export interface ButtonProps {
 }
 
 export function Button({label, onClick}: ButtonProps) {
-    return <button onClick={onClick}>{label}<br/> Hello 🐣 ^^</button>
+    return <button onClick={onClick}>
+{label}
+<br/> Hello 🐣 ^^
+</button>
 }
