@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/maha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/maha_monorepo" vcs="Git" />
   </component>
 </project>
